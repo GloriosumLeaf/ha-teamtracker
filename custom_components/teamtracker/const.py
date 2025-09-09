@@ -48,6 +48,10 @@ LEAGUE_MAP = {
         CONF_SPORT_PATH: BASKETBALL,
         CONF_LEAGUE_PATH: "nba",
     },
+    "NBL": {
+        CONF_SPORT_PATH: BASKETBALL,
+        CONF_LEAGUE_PATH: "nbl"
+    },
     "WNBA": {
         CONF_SPORT_PATH: BASKETBALL,
         CONF_LEAGUE_PATH: "wnba",
