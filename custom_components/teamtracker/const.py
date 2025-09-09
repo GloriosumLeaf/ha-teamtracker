@@ -132,6 +132,10 @@ LEAGUE_MAP = {
         CONF_SPORT_PATH: SOCCER,
         CONF_LEAGUE_PATH: "usa.nwsl",
     },
+    "WSL": {
+        CONF_SPORT_PATH: SOCCER,
+        CONF_LEAGUE_PATH: "eng.w.1",
+    },
     "SERA": {
         CONF_SPORT_PATH: SOCCER,
         CONF_LEAGUE_PATH: "ita.1",
